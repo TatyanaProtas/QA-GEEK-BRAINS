@@ -381,6 +381,8 @@ _____
 [4. Резолюция](#4-резолюция)
 
 [5. Где составлять и хранить чек-листы](#5-где-составлять-и-хранить-чек-листы)
+
+[Практическое задание](#практическое-задание)
 _____
 
 
@@ -458,10 +460,15 @@ ____
 4. blocked – нет возможности проверить
 5. untested – еще не брали в работу
 
-
-
+____
 # 5. Где составлять и хранить чек-листы
 
+<kbd><img src="https://github.com/TatyanaProtas/QA-GEEK-BRAINS/blob/main/Lesson3pic2.png?raw=true" /></kbd>
+
+
+<kbd><img src="https://github.com/TatyanaProtas/QA-GEEK-BRAINS/blob/main/Lesson3pic3.png?raw=true" /></kbd>
+
+## Практическое задание
 
 # Урок 4.Создание тест-кейсов
 
