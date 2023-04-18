@@ -611,11 +611,11 @@ ____
 
 # 5. Сравним тест-кейсы и чек-листы
 
-<kbd><img src="путь к изображению" /></kbd>
+<kbd><img src="https://github.com/TatyanaProtas/QA-GEEK-BRAINS/blob/main/Lesson4pic1.png?raw=true" /></kbd>
 
 # 6. Позитивные и негативные тесты
 
-<kbd><img src="путь к изображению" /></kbd>
+<kbd><img src="https://github.com/TatyanaProtas/QA-GEEK-BRAINS/blob/main/Lesson4pic2.png?raw=true" /></kbd>
 
 # Урок 5.Создание баг-репортов. Баг-трекинговые системы
 <kbd><img src="путь к изображению" /></kbd>
