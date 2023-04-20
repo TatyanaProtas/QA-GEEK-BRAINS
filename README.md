@@ -780,12 +780,15 @@ ___
 ## Признаки эквивалентных классов
  1. если один тест выявит ошибку — остальные,  скорее всего, тоже это сделают;
  2. если один из тестов не выявит ошибку — остальные, скорее всего, тоже этого не сделают.
- 
- <kbd><img src="путь к изображению" /></kbd>
+
+ <kbd><img src="https://github.com/TatyanaProtas/QA-GEEK-BRAINS/blob/main/Lesson6pic1.png?raw=true" /></kbd>
 
  <kbd><img src="https://github.com/TatyanaProtas/QA-GEEK-BRAINS/blob/main/Lesson6pic2.png?raw=true" /></kbd>
- <kbd><img src="путь к изображению" /></kbd>
- <kbd><img src="путь к изображению" /></kbd>
+
+ <kbd><img src="https://github.com/TatyanaProtas/QA-GEEK-BRAINS/blob/main/Lesson6pic3.png?raw=true" /></kbd>
+
+ <kbd><img src="https://github.com/TatyanaProtas/QA-GEEK-BRAINS/blob/main/Lesson6pic4.png?raw=true" /></kbd>
+
 
  ____
  Что можно разбить на классы эквивалентности
@@ -809,7 +812,7 @@ ___
 3. Определить, к какому классу будет относиться каждая граница.
 4. Для каждой границы провести тесты по проверке значения до границы, на ней и сразу после нее.
 
-<kbd><img src="путь к изображению" /></kbd>
+<kbd><img src="https://github.com/TatyanaProtas/QA-GEEK-BRAINS/blob/main/Lesson6pic5.png?raw=true" /></kbd>
 ____
 
 # Урок 7. Основы клиент-серверной архитектуры
